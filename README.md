@@ -4,10 +4,14 @@
 获取来源是官方的快照。
 
 20111116版：http://web.archive.org/web/20121029144319/http://www.maicaidao.com:80/
+
 20141213版：http://web.archive.org/web/20150417044256/http://www.maicaidao.com
+
 20160622版：http://web.archive.org/web/20160624193117/http://www.maicaidao.com
+
 MD5：
 (chopper.exe)md5各版本校验码（仅exe主程序）: 
+
 	20111116 => 5001ef50c7e869253a7c152a638eab8a
 	20141213 => 4b4a956b9c7dc734f339fa05e4c2a990
 	20160620 - ac86066ffd58779f4c0db5030574b0cb
