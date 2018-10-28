@@ -1,7 +1,7 @@
 # caidao-official-version
 中国菜刀官方版本，拒绝黑吃黑，来路清晰
 
-获取来源是官方的快照。
+获取来源是官网的快照。
 
 20111116版：http://web.archive.org/web/20121029144319/http://www.maicaidao.com:80/
 
@@ -10,6 +10,7 @@
 20160622版：http://web.archive.org/web/20160624193117/http://www.maicaidao.com
 
 注：2011和2014版都可以在快照页下载，2016版快照里没存档，但好在有主程序的MD5以及配置文件，这两样安全就基本可以说是安全的了，然后把在外网找的版本对比一下即可。2016版介意的勿下。
+官方是http://www.maicaidao.com 想下新版本的话可以关注一下，注意识别冒牌货。
 
 MD5：
 (chopper.exe)md5各版本校验码（仅exe主程序）: 
